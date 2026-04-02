@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/profile.jpg" alt="Masudur Rahman Sifat" width="120" style="border-radius: 50%;"/>
+<img src="assets/masudurrahmansifat.jpg" alt="Masudur Rahman Sifat" width="120" style="border-radius: 50%;"/>
 
 # Masudur Rahman Sifat
 
