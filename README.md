@@ -69,7 +69,7 @@ Full goals → **[about/goals.md](about/goals.md)**
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Mr-SxR Logo" width="60"/>
+<img src="assets/Mr-SxR_logo.jpg" alt="Mr-SxR Logo" width="60"/>
 
 **Mr-SxR — Speciality & Reliability**
 
