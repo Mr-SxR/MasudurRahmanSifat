@@ -71,4 +71,8 @@ Full goals → **[about/goals.md](about/goals.md)**
 
 *"Not just a name. A standard."*
 
+<br/>
+
+> 🔗 My GitHub Profile → **[github.com/mr-sxr](https://github.com/mr-sxr)**
+
 </div>
