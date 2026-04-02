@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Mr-SxR Banner" width="100%"/>
-
-<br/>
-
 <img src="assets/masudurrahmansifat.jpg" alt="Masudur Rahman Sifat" width="120" style="border-radius: 50%;"/>
 
 # Masudur Rahman Sifat
